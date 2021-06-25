@@ -4,9 +4,8 @@ body {
 }
 .main-container {
 	margin-left: 24vw;
-	margin-top: 32vh;
+	margin-top: 36vh;
 	font-family: 'Courier New', monospace;
-	width: 32vw;
 }
 #body-name {
 	font-weight: 700;
