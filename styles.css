@@ -2,22 +2,11 @@ body {
 	background-color: #161618;
 	color: #f2f2f2;
 }
-.left-container {
-	float: left;
-	height: 100%;
-	width: 24%;
-}
-.right-container {
-	float: left;
-	height: 100%;
-}
-.top-container {
-	height: 32%;
-	width: 100%;	
-}
-.bottom-container {
+.main-container {
+	margin-left: 24vw;
+	margin-top: 32vh;
 	font-family: 'Courier New', monospace;
-	width: 48%;
+	width: 32vw;
 }
 #body-name {
 	font-weight: 700;
