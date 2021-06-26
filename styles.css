@@ -1,11 +1,11 @@
 body {
 	background-color: #161618;
 	color: #f2f2f2;
+	font-family: 'Courier New', monospace;
 }
 .main-container {
 	margin-left: 24vw;
-	margin-top: 36vh;
-	font-family: 'Courier New', monospace;
+	margin-top: 36vh;	
 }
 #body-name {
 	font-weight: 700;
@@ -43,4 +43,33 @@ body {
 }
 .body-email {
 	margin-top: 1em;
+}
+
+
+
+.tab-main-container {
+
+}
+.tab-left-container {
+	float: left;
+	width: 32vw;
+	height: 99vh;
+	background-color: blue;
+}
+.tab-middle-container {
+	float: left;
+	width: 36vw;
+	height: 99vh;
+	background-color: red;
+}
+.tab-right-container {
+	float: left;
+	width: 26vw;
+	height: 83vh;
+	padding-left: 4vw;
+	padding-top: 16vh;
+	/*background-color: green;*/
+}
+.company-logo {
+	width: 5vw;
 }
