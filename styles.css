@@ -52,15 +52,19 @@ body {
 }
 .tab-left-container {
 	float: left;
-	width: 32vw;
-	height: 99vh;
-	background-color: blue;
+	width: 26vw;	
+	height: 83vh;
+	padding-left: 4vw;
+	padding-top: 16vh;
+	/*background-color: blue;*/
 }
 .tab-middle-container {
 	float: left;
-	width: 36vw;
-	height: 99vh;
-	background-color: red;
+	width: 26vw;	
+	height: 83vh;
+	padding-left: 4vw;
+	padding-top: 16vh;
+	/*background-color: red;*/
 }
 .tab-right-container {
 	float: left;
@@ -69,6 +73,30 @@ body {
 	padding-left: 4vw;
 	padding-top: 16vh;
 	/*background-color: green;*/
+}
+#section-header {
+	font-size: 2rem;
+	font-weight: 700;
+}
+#tag-type {
+	font-size: 0.7rem;
+	color: #424242;
+	background-color: #b8ffb0;
+	padding-top: 0.1rem;
+	padding-bottom: 0.1rem;
+	padding-left: 0.2rem;
+	padding-right: 0.2rem;
+	border-radius: 4px;
+}
+#tag-month {
+	font-size: 0.7rem;
+	color: #424242;
+	background-color: #b0f2ff;
+	padding-top: 0.1rem;
+	padding-bottom: 0.1rem;
+	padding-left: 0.2rem;
+	padding-right: 0.2rem;
+	border-radius: 4px;
 }
 .company-logo {
 	width: 5vw;
